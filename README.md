@@ -32,3 +32,7 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### 说明
+这个是平台端的前端框架
